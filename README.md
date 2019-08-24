@@ -1,12 +1,31 @@
-## Welcome to GitHub Pages
+# Github HOWTO
 
-You can use the [editor on GitHub](https://github.com/tejaswigowda/github-basics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This guide teaches you step-by-step how to get started with github, or other flavors of git (using the command line).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Installation
 
-### Markdown
+### MAC OS:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Open terminal.
+2. $`git --version`
+    If you see output like:
+    ``git version 2.20.1 (Apple Git-117)``. Git is installed.
+    Otherwise you will be prompted to install xcode tools. Please follow steps to install these.
+    
+### Linux
+
+In console
+$`sudo apt install git`.
+
+### Windows
+Download Installer
+https://git-scm.com/download/win
+
+Please install git-bash as well. We will assume you are using git-bach to follow along with this tutorial on Windows.
+
+    
+## Motivattion
+
 
 ```markdown
 Syntax highlighted code block
