@@ -64,6 +64,7 @@ You can create a remote repository by hosting your own git server, or use Git-as
 
 
 
+
 ## Tutorial
     
     
@@ -74,6 +75,6 @@ You can create a remote repository by hosting your own git server, or use Git-as
 
 
 
-<script>
+<script style='display:none'>
     document.getElementsByTagName("header")[0].style.visibility = "hidden";
 </script>
