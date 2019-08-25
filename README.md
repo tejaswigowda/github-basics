@@ -52,5 +52,5 @@ The git lifecycle includes creating versions ("commits") of your development fol
 
 
 <script>
-    document.getElementsByTagName("header")[0].style.opacity = "0";
+    document.getElementsByTagName("header")[0].style.visibility = "hidden";
 </script>
