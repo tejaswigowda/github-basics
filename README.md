@@ -4,7 +4,7 @@ This guide teaches you step-by-step how to get started with github, or other fla
 
 ## Installation
 
-### MAC OS:
+### Mac OS:
 
 1. Open terminal.
 2. $``git --version``
@@ -32,27 +32,16 @@ Please install git-bash as well. We will assume you are using git-bach to follow
     
 ## Motivation
 
+Why use Git? If you are interested in doing any/all of the following
 
-```markdown
-Syntax highlighted code block
+1. Use GIT for maintaining your code/design project files.
+2. Collaborate with teammates over the cloud (think Google docs but for project files).
+3. Better than backups: https://git-scm.com/book/en/v1/Getting-Started-Git-Basics
+    <img src='https://git-scm.com/figures/18333fig0104-tn.png'>
+    <img src='https://git-scm.com/figures/18333fig0105-tn.png'>
+4. Publish/access open source code.
 
-# Header 1
-## Header 2
-### Header 3
+## Lifecycle
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-<script>
-    alert()
-    </script>
+The git 
+    
