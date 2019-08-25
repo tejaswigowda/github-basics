@@ -30,7 +30,7 @@ https://git-scm.com/download/win
 Please install git-bash as well. We will assume you are using git-bach to follow along with this tutorial on Windows.
 
     
-## Motivattion
+## Motivation
 
 
 ```markdown
@@ -51,4 +51,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-% For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+<script>
+    alert()
+    </script>
