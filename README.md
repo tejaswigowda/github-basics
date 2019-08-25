@@ -51,14 +51,25 @@ Why use Git? If you are interested in doing any/all of the following
 
 
 
+
 ## Lifecycle
 
 The git lifecycle includes creating versions ("commits") of your development folder as and when it changes. You will 
-"add" files to be "tracked" in your folder by the `git add` command. You stage the added files for a "commit" (version) by using the git commit
+"add" files to be "tracked" in your folder by the `git add` command. You stage the added files for a "commit" (version) by using the `git commit`. If your repository is maintained on the cloud, you will need `git push` to sync the new version created with your cloud (remote) repository.
+ <img src='lifecycle.png'>
+
+You can create a remote repository by hosting your own git server, or use Git-as-a-Service(GaaS) providewrs like [GitHub](https://github.com/), [GitLab](https://gitlab.com), [Bitbucket](https://bitbucket.org/) etc. The following tutorial uses Github as GaaS, but the commain-line steps should work the same with any GaaS.
+
+
 
 
 
 ## Tutorial
+    
+    
+    
+    
+    
     
 
 
