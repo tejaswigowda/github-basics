@@ -40,16 +40,16 @@ Why use Git? If you are interested in doing any/all of the following
 2. Collaborate with teammates over the cloud (think Google docs but for project files).
 3. Better than backups: https://git-scm.com/book/en/v1/Getting-Started-Git-Basics
     <img src='vcsVSgit.png'>
-
 4. Publish/access open source code.
 
 ## Lifecycle
 
-The git 
+The git lifecycle includes creating versions ("commits") of your development folder as and when it changes. You will 
+"add" files to the "tracked" in your 
     
 
 
 
 <script>
-    $("header").remove();
+    document.getElementByTagName("header")[0].style.opacity = "0";
 </script>
