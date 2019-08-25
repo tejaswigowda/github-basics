@@ -50,8 +50,6 @@ The git
 
 
 
-<!--
 <script>
     $("header").remove();
 </script>
--->
