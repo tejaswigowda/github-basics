@@ -1,4 +1,6 @@
-# Github HOWTO
+
+
+# Github Basics
 
 This guide teaches you step-by-step how to get started with github, or other flavors of git (using the command line).
 
