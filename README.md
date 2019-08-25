@@ -15,7 +15,7 @@ This guide teaches you step-by-step how to get started with github, or other fla
 
     If you see output like:
     
-    ``git version 2.20.1 (Apple Git-117)``. Git is installed.
+    ``git version 2.20.1 (Apple Git-117)``; Git is installed.
     
     Otherwise you will be prompted to install xcode tools. Please follow steps to install these.
     
@@ -31,7 +31,7 @@ Download Installer
 
 https://git-scm.com/download/win
 
-Please install git-bash as well. We will assume you are using git-bach to follow along with this tutorial on Windows.
+Please install git-bash as well. We will assume you are using git-bash to follow along with this tutorial on Windows.
 
     
     
@@ -47,10 +47,18 @@ Why use Git? If you are interested in doing any/all of the following
     <img src='vcsVSgit.png'>
 4. Publish/access open source code.
 
+
+
+
+
 ## Lifecycle
 
 The git lifecycle includes creating versions ("commits") of your development folder as and when it changes. You will 
-"add" files to the "tracked" in your 
+"add" files to be "tracked" in your folder by the `git add` command. You stage the added files for a "commit" (version) by using the git commit
+
+
+
+## Tutorial
     
 
 
