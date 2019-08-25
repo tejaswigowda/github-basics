@@ -9,7 +9,7 @@ This guide teaches you step-by-step how to get started with github, or other fla
 ### Mac OS:
 
 1. Open terminal.
-2. $``git --version``
+2. $ ``git --version``
 
     If you see output like:
     
@@ -21,7 +21,7 @@ This guide teaches you step-by-step how to get started with github, or other fla
 
 In console
 
-$``sudo apt install git``.
+$ ``sudo apt install git``.
 
 ### Windows
 
