@@ -4,6 +4,8 @@
 
 This guide teaches you step-by-step how to get started with github, or other flavors of git (using the command line).
 
+
+
 ## Installation
 
 ### Mac OS:
@@ -31,6 +33,8 @@ https://git-scm.com/download/win
 
 Please install git-bash as well. We will assume you are using git-bach to follow along with this tutorial on Windows.
 
+    
+    
     
 ## Motivation
 
