@@ -45,3 +45,11 @@ Why use Git? If you are interested in doing any/all of the following
 
 The git 
     
+
+
+
+<!--
+<script>
+    $("header").remove();
+</script>
+-->
