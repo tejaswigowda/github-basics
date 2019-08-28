@@ -71,8 +71,23 @@ You can create a remote repository by hosting your own git server, or use Git-as
 1. Create a Github account
 2. Create a Github Repo
     <img style="" src='plus.png'>
-    <img style="display:block;margin:auto" src='repo.png'>
+    <img style="display:block;margin:auto" src='new.png'>
+    
+3. Find repo url
+        <img style="display:block;margin:auto" src='clone.png'>
 
+4. Clone repo
+    $ ``git clone <yout repo-url> ``
+    This will create a folder with the repo name and "checkout" the lastest commit.
+    
+5. cd to new folder created, you can now add/edit delete/files from thgis folder.
+
+6. To create new commit
+    $`` git add *``
+    $`` git commit -m "<your-message>"``
+    
+7. To sync your repo with cloud repo
+        $`` git push``
 
 
     
