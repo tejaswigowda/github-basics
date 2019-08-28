@@ -67,6 +67,14 @@ You can create a remote repository by hosting your own git server, or use Git-as
 
 <br>
 ## Tutorial
+
+1. Create a Github account
+2. Create a Github Repo
+    <img style="" src='plus.png'>
+    <img style="display:block;margin:auto" src='repo.png'>
+
+
+
     
     
     
